@@ -122,13 +122,12 @@ button.facts {
 	margin: 2%;
 	height: 500px;
 	display: inline-block;
-
 }
-
 .column p {
 	text-align: left;
 	width: 90%;
 	margin-left: 5%;
+	
 }
 footer {
 	background-color: #048eaa;

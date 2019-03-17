@@ -2,7 +2,7 @@
 	box-sizing:border-box;
 }
 
-	#column1of3 {
+#column1of3 {
 	width: 38%;
 	margin: 5%;
 	margin-left: 5%;
@@ -27,9 +27,7 @@
 		width: auto;
 		margin: auto;
 	}
-	.topnav a {
-		display: block;
-	}
+
 
 	#column1of3 {
 		width: 97%;
@@ -44,7 +42,7 @@
 	}
 	#column3of3 {
 		width: 100%;
-	
+
 	}
 	#column3of3 p {
 		width: 90%;
@@ -64,7 +62,7 @@
 		background-position: bottom;
 		background-size: cover;
 
-	
+
 	}
 	.centered {
 		transform: translate(-50%, -50%);
